@@ -1,5 +1,3 @@
-_This is project 2 of Udacity's Data Streaming Nanodegree program | Completed in September 2020_
-
 # Data Streaming Project - Spark Structured Streaming
 
 The goal is to build a simple Apache Kafka - Spark streaming pipeline.
